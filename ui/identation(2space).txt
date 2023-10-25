@@ -1,0 +1,40 @@
+html
+├── head
+│   └── title
+└── body
+    ├── a (Brown Bear)
+    ├── a (About Me)
+    ├── h1
+    ├── ul
+    │   ├── li
+    │   │   └── a (#introduction)
+    │   ├── li
+    │   │   └── a (#habitat)
+    │   └── li
+    │       └── a (#media)
+    ├── div (id=introduction)
+    │   ├── h2
+    │   ├── p
+    │   ├── a (Learn More)
+    │   ├── h3
+    │   ├── ul
+    │   │   ├── li
+    │   │   ├── li
+    │   │   ├── li
+    │   │   └── li
+    │   ├── h3
+    │   └── p
+    ├── div (id=habitat)
+    │   ├── h2
+    │   ├── h3
+    │   ├── ol
+    │   │   ├── li
+    │   │   ├── li
+    │   │   └── li
+    │   ├── h3
+    │   └── p
+    └── div (id=media)
+        ├── h2
+        ├── a
+        │   └── img
+        └── video
